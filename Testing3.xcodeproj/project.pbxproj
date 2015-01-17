@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F52D2CF1A6AE95000B69A2D /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F52D2CE1A6AE95000B69A2D /* HomeViewController.m */; };
 		8F784D411A6AD129006D9223 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F784D401A6AD129006D9223 /* main.m */; };
 		8F784D441A6AD129006D9223 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F784D431A6AD129006D9223 /* AppDelegate.m */; };
 		8F784D471A6AD129006D9223 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F784D461A6AD129006D9223 /* ViewController.m */; };
@@ -14,6 +15,12 @@
 		8F784D4C1A6AD12A006D9223 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D4B1A6AD12A006D9223 /* Images.xcassets */; };
 		8F784D4F1A6AD12A006D9223 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D4D1A6AD12A006D9223 /* LaunchScreen.xib */; };
 		8F784D5B1A6AD12A006D9223 /* Testing3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F784D5A1A6AD12A006D9223 /* Testing3Tests.m */; };
+		8F784D681A6AD3F4006D9223 /* lisa.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D661A6AD3F4006D9223 /* lisa.jpeg */; };
+		8F784D691A6AD3F4006D9223 /* bart_simpson.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D671A6AD3F4006D9223 /* bart_simpson.png */; };
+		8F784D6E1A6ADB5A006D9223 /* Maggie_Simpson.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D6A1A6ADB5A006D9223 /* Maggie_Simpson.png */; };
+		8F784D6F1A6ADB5A006D9223 /* Simpsons_252.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D6B1A6ADB5A006D9223 /* Simpsons_252.gif */; };
+		8F784D701A6ADB5A006D9223 /* Homer_Simpson_2006.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D6C1A6ADB5A006D9223 /* Homer_Simpson_2006.png */; };
+		8F784D711A6ADB5A006D9223 /* Simpsons_FamilyPicture.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F784D6D1A6ADB5A006D9223 /* Simpsons_FamilyPicture.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8F52D2CD1A6AE95000B69A2D /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		8F52D2CE1A6AE95000B69A2D /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		8F784D3B1A6AD129006D9223 /* Testing3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Testing3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F784D3F1A6AD129006D9223 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F784D401A6AD129006D9223 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +49,12 @@
 		8F784D541A6AD12A006D9223 /* Testing3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Testing3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F784D591A6AD12A006D9223 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F784D5A1A6AD12A006D9223 /* Testing3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Testing3Tests.m; sourceTree = "<group>"; };
+		8F784D661A6AD3F4006D9223 /* lisa.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lisa.jpeg; sourceTree = "<group>"; };
+		8F784D671A6AD3F4006D9223 /* bart_simpson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bart_simpson.png; sourceTree = "<group>"; };
+		8F784D6A1A6ADB5A006D9223 /* Maggie_Simpson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maggie_Simpson.png; sourceTree = "<group>"; };
+		8F784D6B1A6ADB5A006D9223 /* Simpsons_252.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Simpsons_252.gif; sourceTree = "<group>"; };
+		8F784D6C1A6ADB5A006D9223 /* Homer_Simpson_2006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Homer_Simpson_2006.png; sourceTree = "<group>"; };
+		8F784D6D1A6ADB5A006D9223 /* Simpsons_FamilyPicture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Simpsons_FamilyPicture.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +78,8 @@
 		8F784D321A6AD129006D9223 = {
 			isa = PBXGroup;
 			children = (
+				8F52D2CD1A6AE95000B69A2D /* HomeViewController.h */,
+				8F52D2CE1A6AE95000B69A2D /* HomeViewController.m */,
 				8F784D3D1A6AD129006D9223 /* Testing3 */,
 				8F784D571A6AD12A006D9223 /* Testing3Tests */,
 				8F784D3C1A6AD129006D9223 /* Products */,
@@ -81,6 +98,7 @@
 		8F784D3D1A6AD129006D9223 /* Testing3 */ = {
 			isa = PBXGroup;
 			children = (
+				8F784D651A6AD33B006D9223 /* images */,
 				8F784D421A6AD129006D9223 /* AppDelegate.h */,
 				8F784D431A6AD129006D9223 /* AppDelegate.m */,
 				8F784D451A6AD129006D9223 /* ViewController.h */,
@@ -117,6 +135,19 @@
 				8F784D591A6AD12A006D9223 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8F784D651A6AD33B006D9223 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				8F784D6A1A6ADB5A006D9223 /* Maggie_Simpson.png */,
+				8F784D6B1A6ADB5A006D9223 /* Simpsons_252.gif */,
+				8F784D6C1A6ADB5A006D9223 /* Homer_Simpson_2006.png */,
+				8F784D6D1A6ADB5A006D9223 /* Simpsons_FamilyPicture.png */,
+				8F784D661A6AD3F4006D9223 /* lisa.jpeg */,
+				8F784D671A6AD3F4006D9223 /* bart_simpson.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,6 +199,7 @@
 				TargetAttributes = {
 					8F784D3A1A6AD129006D9223 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = QXF33N93KH;
 					};
 					8F784D531A6AD12A006D9223 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -201,7 +233,13 @@
 			files = (
 				8F784D4A1A6AD129006D9223 /* Main.storyboard in Resources */,
 				8F784D4F1A6AD12A006D9223 /* LaunchScreen.xib in Resources */,
+				8F784D691A6AD3F4006D9223 /* bart_simpson.png in Resources */,
+				8F784D701A6ADB5A006D9223 /* Homer_Simpson_2006.png in Resources */,
+				8F784D681A6AD3F4006D9223 /* lisa.jpeg in Resources */,
+				8F784D6F1A6ADB5A006D9223 /* Simpsons_252.gif in Resources */,
 				8F784D4C1A6AD12A006D9223 /* Images.xcassets in Resources */,
+				8F784D6E1A6ADB5A006D9223 /* Maggie_Simpson.png in Resources */,
+				8F784D711A6ADB5A006D9223 /* Simpsons_FamilyPicture.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +260,7 @@
 				8F784D471A6AD129006D9223 /* ViewController.m in Sources */,
 				8F784D441A6AD129006D9223 /* AppDelegate.m in Sources */,
 				8F784D411A6AD129006D9223 /* main.m in Sources */,
+				8F52D2CF1A6AE95000B69A2D /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +383,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Testing3/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -354,6 +394,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Testing3/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -412,6 +453,7 @@
 				8F784D601A6AD12A006D9223 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8F784D611A6AD12A006D9223 /* Build configuration list for PBXNativeTarget "Testing3Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +462,7 @@
 				8F784D631A6AD12A006D9223 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

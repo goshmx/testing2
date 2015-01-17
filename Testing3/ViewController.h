@@ -10,6 +10,10 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)push_anterior:(id)sender;
+- (IBAction)push_siguiente:(id)sender;
+- (IBAction)otro_panel:(id)sender;
+@property (weak, nonatomic) IBOutlet UIImageView *ImageIntro;
 
 @end
 
